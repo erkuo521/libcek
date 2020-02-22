@@ -1,2 +1,0 @@
-# libcek
-cek's lib
